@@ -5,12 +5,12 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Chat With AI",
-  description: "Chat with AI - Powered by LangChain",
+  title: "AskVerse",
+  description: "AskVerse - Powered by LangChain",
   icons: {
-    icon: "/ai-rag-chatapp-icon-minimal.png",
-    apple: "/ai-rag-chatapp-icon-minimal.png",
-    shortcut: "/ai-rag-chatapp-icon-minimal.png"
+    icon: "/askverse-icon-minimal.png",
+    apple: "/askverse-icon-minimal.png",
+    shortcut: "/askverse-icon-minimal.png"
   },
 };
 

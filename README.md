@@ -1,9 +1,9 @@
-# Chat with AI-RAG
+# AskVerse
 
 A modern, interactive chat application built with Next.js that demonstrates various AI conversation modes including Retrieval-Augmented Generation (RAG) capabilities. This application allows users to interact with an AI assistant in three different modes: Quick Chat, Memory Chat, and Contextual Chat with document support.
 
 <p align="center">
-  <img src="public/ai-rag-chatapp-icon.png" alt="Chat with AI-RAG Logo" width="200">
+  <img src="public/askverse-icon.png" alt="AskVerse Logo" width="200">
 </p>
 
 ## Features
@@ -42,8 +42,8 @@ A modern, interactive chat application built with Next.js that demonstrates vari
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anonlegionoke/Chat-with-AI-RAG.git
-   cd Chat-with-AI-RAG
+   git clone https://github.com/anonlegionoke/AskVerse.git
+   cd AskVerse
    ```
 
 2. Install dependencies:
